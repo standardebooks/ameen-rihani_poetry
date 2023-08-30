@@ -74,11 +74,6 @@ p span.i9{
 	text-indent: -1em;
 }
 
-p span.i11{
-	padding-left: 12em;
-	text-indent: -1em;
-}
-
 [epub|type~="z3998:poem"] hgroup p{
 	text-align: center;
 }
@@ -136,3 +131,8 @@ section[epub|type~="dedication"] hr{
 	margin: 1em;
 	text-align: center;
 }
+
+#the-first-and-last span span:last-child{
+  vertical-align: -100%;
+}
+

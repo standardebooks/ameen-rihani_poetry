@@ -132,7 +132,6 @@ section[epub|type~="dedication"] hr{
 	text-align: center;
 }
 
-#the-first-and-last span span:last-child{
-  vertical-align: -100%;
+.dl2 span:first-child{
+	vertical-align: 100%;
 }
-

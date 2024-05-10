@@ -43,7 +43,7 @@
 		<dc:source>https://archive.org/details/chantofmysticsot00riha</dc:source>
 		<meta property="se:production-notes">The Myrrh and Myrtle versions of "The Fruits of Death" and "After Reading King Lear" were excised in favor of the Chant of Mystics versions.</meta>
 		<meta property="se:word-count">19321</meta>
-		<meta property="se:reading-ease.flesch">71.18</meta>
+		<meta property="se:reading-ease.flesch">71.48</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ameen-rihani_poetry</meta>
 		<dc:creator id="author">Ameen Rihani</dc:creator>
 		<meta property="file-as" refines="#author">Rihani, Ameen</meta>

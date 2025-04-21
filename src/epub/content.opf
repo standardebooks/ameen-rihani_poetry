@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh88003555</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Ameen Rihani’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Born in Lebanon and brought to the United States by his father as a teenager, &lt;a href="https://standardebooks.org/ebooks/ameen-rihani"&gt;Ameen Rihani&lt;/a&gt; was a pioneer in the literary movement of &lt;i&gt;Mahjar&lt;/i&gt; (Arab diaspora) literature. During his lifetime, he published two volumes of original English-language poetry, titled &lt;i&gt;Myrtle and Myrrh&lt;/i&gt; (1905) and &lt;i&gt;A Chant of Mystics and Other Poems&lt;/i&gt; (1921). Major themes explored in Rihani’s poetry include Orientalism, mysticism, and cultural encounters between East and West. This Standard Ebooks edition presents both of Rihani’s poetry collections in one volume.&lt;/p&gt;

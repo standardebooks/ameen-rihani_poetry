@@ -46,7 +46,7 @@
 		<dc:source>https://archive.org/details/chantofmysticsot00riha</dc:source>
 		<meta property="schema:wordCount">19099</meta>
 		<meta property="schema:educationalLevel">71.48</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/ameen-rihani_poetry" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Ameen Rihani</dc:creator>

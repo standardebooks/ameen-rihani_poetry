@@ -44,7 +44,7 @@
 		<dc:source>https://en.wikisource.org/wiki/A_Chant_of_Mystics_and_Other_Poems</dc:source>
 		<dc:source>https://archive.org/details/myrtlemyrrhpoems00riha</dc:source>
 		<dc:source>https://archive.org/details/chantofmysticsot00riha</dc:source>
-		<meta property="schema:wordCount">19099</meta>
+		<meta property="schema:wordCount">19073</meta>
 		<meta property="schema:educationalLevel">71.48</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
